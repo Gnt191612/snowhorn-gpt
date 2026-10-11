@@ -1,0 +1,10 @@
+{
+  "name": "snowhorn-gpt-community",
+  "interface": {"displayName": "Snowhorn GPT"},
+  "plugins": [{
+    "name": "snowhorn-gpt",
+    "source": {"source": "local", "path": "./"},
+    "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+    "category": "Lifestyle"
+  }]
+}

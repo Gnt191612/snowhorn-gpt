@@ -1,0 +1,24 @@
+{
+  "name": "snowhorn-gpt",
+  "version": "1.0.0",
+  "description": "安装 v2 Codex 宠物 Snowhorn GPT。",
+  "author": {"name": "郭宁桐"},
+  "homepage": "https://github.com/Gnt191612/snowhorn-gpt",
+  "repository": "https://github.com/Gnt191612/snowhorn-gpt",
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Snowhorn GPT",
+    "shortDescription": "安装白发紫角 AI 娘 Codex 宠物",
+    "longDescription": "安装已验证的 v2 动态宠物 Snowhorn GPT：白发、淡紫双角、精灵耳和紫色眼睛的幻想系 AI 娘。",
+    "developerName": "郭宁桐",
+    "category": "Lifestyle",
+    "capabilities": ["Write"],
+    "brandColor": "#B7A1EE",
+    "websiteURL": "https://github.com/Gnt191612/snowhorn-gpt",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "screenshots": ["./assets/preview/contact-sheet.png"],
+    "defaultPrompt": ["安装 Snowhorn GPT"]
+  }
+}
